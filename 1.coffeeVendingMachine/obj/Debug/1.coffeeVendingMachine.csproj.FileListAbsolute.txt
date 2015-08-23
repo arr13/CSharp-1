@@ -1,0 +1,6 @@
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\1.coffeeVendingMachine\bin\Debug\1.coffeeVendingMachine.exe.config
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\1.coffeeVendingMachine\bin\Debug\1.coffeeVendingMachine.exe
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\1.coffeeVendingMachine\bin\Debug\1.coffeeVendingMachine.pdb
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\1.coffeeVendingMachine\obj\Debug\1.coffeeVendingMachine.csprojResolveAssemblyReference.cache
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\1.coffeeVendingMachine\obj\Debug\1.coffeeVendingMachine.exe
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\1.coffeeVendingMachine\obj\Debug\1.coffeeVendingMachine.pdb

@@ -1,0 +1,6 @@
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\4.fireInTheMatrix\bin\Debug\4.fireInTheMatrix.exe.config
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\4.fireInTheMatrix\obj\Debug\4.fireInTheMatrix.csprojResolveAssemblyReference.cache
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\4.fireInTheMatrix\bin\Debug\4.fireInTheMatrix.exe
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\4.fireInTheMatrix\bin\Debug\4.fireInTheMatrix.pdb
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\4.fireInTheMatrix\obj\Debug\4.fireInTheMatrix.exe
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\4.fireInTheMatrix\obj\Debug\4.fireInTheMatrix.pdb

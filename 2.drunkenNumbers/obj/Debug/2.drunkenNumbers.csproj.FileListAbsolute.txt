@@ -1,0 +1,6 @@
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\2.drunkenNumbers\bin\Debug\2.drunkenNumbers.exe.config
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\2.drunkenNumbers\bin\Debug\2.drunkenNumbers.exe
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\2.drunkenNumbers\bin\Debug\2.drunkenNumbers.pdb
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\2.drunkenNumbers\obj\Debug\2.drunkenNumbers.csprojResolveAssemblyReference.cache
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\2.drunkenNumbers\obj\Debug\2.drunkenNumbers.exe
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\2.drunkenNumbers\obj\Debug\2.drunkenNumbers.pdb

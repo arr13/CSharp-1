@@ -1,0 +1,6 @@
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\5.neuronMapping\bin\Debug\5.neuronMapping.exe.config
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\5.neuronMapping\bin\Debug\5.neuronMapping.exe
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\5.neuronMapping\bin\Debug\5.neuronMapping.pdb
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\5.neuronMapping\obj\Debug\5.neuronMapping.csprojResolveAssemblyReference.cache
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\5.neuronMapping\obj\Debug\5.neuronMapping.exe
+D:\Things\T-Academy\C#\C#1 - Exams\Variant 1 (2013-06-23)\5.neuronMapping\obj\Debug\5.neuronMapping.pdb
