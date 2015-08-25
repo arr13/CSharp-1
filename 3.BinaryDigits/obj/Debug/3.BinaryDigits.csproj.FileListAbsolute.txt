@@ -1,0 +1,5 @@
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 1 (2013-12-05)\3.BinaryDigits\bin\Debug\3.BinaryDigits.exe.config
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 1 (2013-12-05)\3.BinaryDigits\bin\Debug\3.BinaryDigits.exe
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 1 (2013-12-05)\3.BinaryDigits\bin\Debug\3.BinaryDigits.pdb
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 1 (2013-12-05)\3.BinaryDigits\obj\Debug\3.BinaryDigits.exe
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 1 (2013-12-05)\3.BinaryDigits\obj\Debug\3.BinaryDigits.pdb

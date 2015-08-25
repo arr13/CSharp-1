@@ -1,0 +1,6 @@
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 1 (2013-12-05)\2.applesOrOranges\bin\Debug\2.applesOrOranges.exe.config
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 1 (2013-12-05)\2.applesOrOranges\bin\Debug\2.applesOrOranges.exe
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 1 (2013-12-05)\2.applesOrOranges\bin\Debug\2.applesOrOranges.pdb
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 1 (2013-12-05)\2.applesOrOranges\obj\Debug\2.applesOrOranges.csprojResolveAssemblyReference.cache
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 1 (2013-12-05)\2.applesOrOranges\obj\Debug\2.applesOrOranges.exe
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 1 (2013-12-05)\2.applesOrOranges\obj\Debug\2.applesOrOranges.pdb

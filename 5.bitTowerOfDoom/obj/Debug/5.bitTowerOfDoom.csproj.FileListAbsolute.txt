@@ -1,0 +1,6 @@
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 1 (2013-12-05)\5.bitTowerOfDoom\bin\Debug\5.bitTowerOfDoom.exe.config
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 1 (2013-12-05)\5.bitTowerOfDoom\bin\Debug\5.bitTowerOfDoom.exe
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 1 (2013-12-05)\5.bitTowerOfDoom\bin\Debug\5.bitTowerOfDoom.pdb
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 1 (2013-12-05)\5.bitTowerOfDoom\obj\Debug\5.bitTowerOfDoom.csprojResolveAssemblyReference.cache
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 1 (2013-12-05)\5.bitTowerOfDoom\obj\Debug\5.bitTowerOfDoom.exe
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 1 (2013-12-05)\5.bitTowerOfDoom\obj\Debug\5.bitTowerOfDoom.pdb
