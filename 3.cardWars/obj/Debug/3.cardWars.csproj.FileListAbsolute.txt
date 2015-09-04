@@ -1,0 +1,6 @@
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\3.cardWars\bin\Debug\3.cardWars.exe.config
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\3.cardWars\bin\Debug\3.cardWars.exe
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\3.cardWars\bin\Debug\3.cardWars.pdb
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\3.cardWars\obj\Debug\3.cardWars.csprojResolveAssemblyReference.cache
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\3.cardWars\obj\Debug\3.cardWars.exe
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\3.cardWars\obj\Debug\3.cardWars.pdb

@@ -1,0 +1,6 @@
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\1.garden\bin\Debug\_1.garden.exe.config
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\1.garden\bin\Debug\_1.garden.exe
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\1.garden\bin\Debug\_1.garden.pdb
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\1.garden\obj\Debug\1.garden.csprojResolveAssemblyReference.cache
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\1.garden\obj\Debug\_1.garden.exe
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\1.garden\obj\Debug\_1.garden.pdb

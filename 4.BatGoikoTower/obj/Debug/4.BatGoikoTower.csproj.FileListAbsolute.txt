@@ -1,0 +1,6 @@
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\4.BatGoikoTower\bin\Debug\4.BatGoikoTower.exe.config
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\4.BatGoikoTower\bin\Debug\4.BatGoikoTower.exe
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\4.BatGoikoTower\bin\Debug\4.BatGoikoTower.pdb
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\4.BatGoikoTower\obj\Debug\4.BatGoikoTower.csprojResolveAssemblyReference.cache
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\4.BatGoikoTower\obj\Debug\4.BatGoikoTower.exe
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\4.BatGoikoTower\obj\Debug\4.BatGoikoTower.pdb

@@ -1,0 +1,6 @@
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\5.bittris\bin\Debug\5.bittris.exe.config
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\5.bittris\bin\Debug\5.bittris.exe
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\5.bittris\bin\Debug\5.bittris.pdb
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\5.bittris\obj\Debug\5.bittris.exe
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\5.bittris\obj\Debug\5.bittris.pdb
+D:\Things\T-Academy\C#\C#1 - Exams - In progress\Variant 2 (2013-06-24)\5.bittris\obj\Debug\5.bittris.csprojResolveAssemblyReference.cache
